@@ -25,8 +25,7 @@ class _MyAppState extends State<MyApp>{
       'answers': [
         {'text': 'Yes', 'score': 5},
         {'text': 'No', 'score': 0},
-        //{'text': '45-59', 'score': 1},
-        //{'text': '60+', 'score': 1},
+     
       ],
     },
     {
@@ -37,8 +36,7 @@ class _MyAppState extends State<MyApp>{
       'answers': [
         {'text': 'Yes', 'score': 5},
         {'text': 'No', 'score': 0},
-        //{'text': 'Elephant', 'score': 5},
-        //{'text': 'Lion', 'score': 9},
+    
       ],
     },
     {
@@ -57,8 +55,7 @@ class _MyAppState extends State<MyApp>{
       'answers': [
         {'text': 'Yes', 'score': 4},
         {'text': 'No', 'score': 0},
-        //{'text': '45-59', 'score': 1},
-        //{'text': '60+', 'score': 1},
+       
       ],
     },
     {
@@ -67,8 +64,7 @@ class _MyAppState extends State<MyApp>{
       'answers': [
         {'text': 'Yes', 'score': 4},
         {'text': 'No', 'score': 0},
-        //{'text': '45-59', 'score': 1},
-        //{'text': '60+', 'score': 1},
+    
       ],
     },
     {
@@ -77,8 +73,7 @@ class _MyAppState extends State<MyApp>{
       'answers': [
         {'text': 'Yes', 'score': 3},
         {'text': 'No', 'score': 0},
-        //{'text': '45-59', 'score': 1},
-        //{'text': '60+', 'score': 1},
+       
       ],
     },
     {
@@ -87,8 +82,7 @@ class _MyAppState extends State<MyApp>{
       'answers': [
         {'text': 'Yes', 'score': 3},
         {'text': 'No', 'score': 0},
-        //{'text': '45-59', 'score': 1},
-        //{'text': '60+', 'score': 1},
+    
       ],
     },
     {
@@ -98,8 +92,7 @@ class _MyAppState extends State<MyApp>{
       'answers': [
         {'text': 'Yes', 'score': 3},
         {'text': 'No', 'score': 0},
-        //{'text': '45-59', 'score': 1},
-        //{'text': '60+', 'score': 1},
+  
       ],
     },
     {
@@ -108,8 +101,7 @@ class _MyAppState extends State<MyApp>{
       'answers': [
         {'text': 'Yes', 'score': 2},
         {'text': 'No', 'score': 0},
-        //{'text': '45-59', 'score': 1},
-        //{'text': '60+', 'score': 1},
+       
       ],
     },
     {
@@ -119,8 +111,7 @@ class _MyAppState extends State<MyApp>{
       'answers': [
         {'text': 'Yes', 'score': 2},
         {'text': 'No', 'score': 0},
-        //{'text': '45-59', 'score': 1},
-        //{'text': '60+', 'score': 1},
+        
       ],
     },
     {
@@ -128,8 +119,7 @@ class _MyAppState extends State<MyApp>{
       'answers': [
         {'text': 'Yes', 'score': 2},
         {'text': 'No', 'score': 0},
-        //{'text': '45-59', 'score': 1},
-        //{'text': '60+', 'score': 1},
+      
       ],
     },
     {
@@ -139,8 +129,7 @@ class _MyAppState extends State<MyApp>{
       'answers': [
         {'text': 'Yes', 'score': 1},
         {'text': 'No', 'score': 0},
-        //{'text': '45-59', 'score': 1},
-        //{'text': '60+', 'score': 1},
+       
       ],
     },
     {
@@ -150,8 +139,7 @@ class _MyAppState extends State<MyApp>{
       'answers': [
         {'text': 'Yes', 'score': 1},
         {'text': 'No', 'score': 0},
-        //{'text': '45-59', 'score': 1},
-        //{'text': '60+', 'score': 1},
+       
       ],
     },
 
